@@ -1,0 +1,89 @@
+header{
+    display: inline-block;
+    border: 2px solid #000; 
+   padding: 5px; 
+border-radius: 4px; 
+}
+.headpag{
+    background-color: #ffffff44;
+    background-color: rgba(255, 255, 255, 0.247);
+}
+body{
+background-color: rgba(112, 2, 2, 0.863);
+
+}
+header{
+    font-size: x-large;
+}
+.paginaPrincipal{
+    background-color: rgba(0, 0, 0, 0.897);
+    width: 99%;
+    font: optional;color: aliceblue;
+}
+.imagenGarage{
+    width: 45%;
+    padding-left: 25%;
+    padding-top: 1%;
+}
+/*   honda s2000   */
+.s2000{
+background-color: #000000c2;
+
+}
+.s2000img{
+    width: 30%;
+    
+}
+.prestacionesS2000{
+float: inline-end;
+font: optional;color: aliceblue;
+}
+.autoS2000{
+    float: inline-start; 
+    font: optional;color: aliceblue;
+}
+/*    audi rs3     */
+.rs3{
+    background-color: #000000c2;
+}
+.autoRS3{
+    float: inline-start;
+    font: optional;color: aliceblue;
+}
+.prestacionesRs3{
+    float: inline-end;
+    font: optional;color: aliceblue;
+}
+/*    Mercedes C200    */
+.c200{
+    background-color: #000000c2;
+}
+.c200img{
+    width: 30%;
+}
+.autoC200{
+    float: inline-start;
+    font: optional;color: aliceblue;
+}
+.prestacionesC200{
+    float: inline-end;
+    font: optional;color: aliceblue;
+}
+/* Lexus LFA   */
+.lfa{
+    background-color: #000000c2;
+}
+.autoLfa{
+    float: left;
+    font: optional;color: aliceblue;
+}
+.prestacionesLfa{
+    float: right;
+    font: optional;color: aliceblue;
+    text-align: center;
+}
+.lfaimg{
+    width: 30%;  
+    border-radius: 0.5rem;
+    
+}
