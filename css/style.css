@@ -12,8 +12,16 @@ body{
 background-color: rgba(112, 2, 2, 0.863);
 
 }
+.indexDesc{
+
+
+}
 header{
     font-size: x-large;
+}
+footer{
+background-color: rgba(240, 255, 255, 0.37);
+padding: 0.5%;
 }
 .paginaPrincipal{
     background-color: rgba(0, 0, 0, 0.897);
